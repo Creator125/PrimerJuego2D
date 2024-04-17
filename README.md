@@ -12,11 +12,4 @@ Este juego de ejemplo fue creado siguiendo el tutorial disponible en la [Pagina 
 - Haz clic izquierdo para avanzar un paso.
 - ¡Si no pisas ningún cuadro el juego se reiniciará!.
 
-## Objetivos
-El objetivo principal de este proyecto es servir como introducción al desarrollo de juegos utilizando Cocos Creator. Además, se alinea con mi interés en encontrar un motor de juegos que me permita:
-
-- Utilizar un lenguaje de programación versátil como TypeScript.
-
-- Exportar juegos a plataformas como Windows y Android, aparte que este motor también me permite exportar para la web.
-
 Este proyecto marca el comienzo de mi viaje como desarrollador indie, y estoy emocionado de embarcarme en esta aventura de aprendizaje con Cocos Creator. ¡Espero que este juego sea solo el primero de muchos éxitos por venir!
